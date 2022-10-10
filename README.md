@@ -1,5 +1,5 @@
 
-### *collaborative github exercise:*
+### *Copy collaborative github exercise:*
 # **Welcome to the evolutionary lottery of skull and beak morphology**
 
 <br>
